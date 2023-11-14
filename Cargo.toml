@@ -1,0 +1,11 @@
+[package]
+name = "rust-contracts"
+version = "0.1.0"
+authors = [""]
+edition = "2018"
+license = "MIT/Apache-2.0"
+
+[lib]
+proc-macro = true
+test = false
+doctest = false
