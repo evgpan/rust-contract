@@ -1,17 +1,3 @@
-Rust Contracts (Deprecated)
-===========================
-
-**This project is not actively maintained. If you want something that is maintained, please see Prusti and its contracts library: https://github.com/viperproject/prusti-dev**
-
-
-[![Build Status](https://travis-ci.org/viperproject/rust-contracts.svg?branch=master)](https://travis-ci.org/viperproject/rust-contracts)
-
-This crate offers the syntax to specify the *contract* of Rust functions (e.g. functional specification).
-
-By default all contracts are ignored.
-
-Verification tools can plug-in their implementation of contracts, in order to check the contracts statically or at runtime, using the technique of their choice.
-
 
 Example of contract
 -------------------
